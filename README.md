@@ -3,11 +3,7 @@
 
 <img align="right" alt="coding" width="450" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" />
 
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+
 
 - 🔭 I’m currently working on [Business Analytics tool (BIPro)](https://github.com/shettykirthan/BIPro)
 - 🌱 Currently **diving deep into DSA and MERN stack**
