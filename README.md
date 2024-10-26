@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="450" style="border-radius: 5px;" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" />
 
-
-
 - 🔭 I’m currently working on [Business Analytics tool (BIPro)](https://github.com/shettykirthan/BIPro)
 - 🌱 Currently **diving deep into DSA and MERN stack**
 
