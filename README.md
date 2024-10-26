@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirthan Shetty</h1>
 <h3 align="center">Always ready to learn new stuff! 🚀💡</h3>
 
-<img align="right" alt="coding" width="450" border-radius="5px" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" />
+<img align="right" alt="coding" width="450" style="border-radius: 5px;" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" />
 
 
 
