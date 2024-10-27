@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirthan Shetty</h1>
 <h3 align="center">Always ready to learn new stuff! 🚀💡</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shettykirthan&label=Profile%20views&color=0e75b6&style=flat" alt="shettyKirthan" /> </p>
+
 
 <img align="right" alt="coding" width="200" style="border-radius: 5px;" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" />
 
