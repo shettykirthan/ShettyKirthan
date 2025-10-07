@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="200" style="border-radius: 5px;" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" />
 
-- 🔭 I’m currently working on [Business Analytics tool (BIPro)](https://github.com/shettykirthan/BIPro)
+- 🔭 I’m currently working on [BrightPath]
 - 🌱 Currently **diving deep into DSA and MERN stack**
 
 ---
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/kirthan-shetty-6254162a7/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/shetty_kirthan" target="_blank">
+  <a href="https://www.leetcode.com/KirthanShettyXLeetcode" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
